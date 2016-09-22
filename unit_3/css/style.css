@@ -7,7 +7,7 @@ body {
 	text-align: center;
 }
 h1	{
-	font-family: Monoton cursive;
+	font-family: Monoton;
 	font-size: 80px;
 	font-weight: 300;
 	color: #EDBB99;
@@ -18,7 +18,7 @@ li	{
 	padding: 0px 50px 0px 50px;
 }
 nav a {
-	font-family: Shrikhand, cursive;
+	font-family: Montserrat;
 	font-size: 30px;
 	font-style: bold;
 	color: #D68910;
@@ -37,7 +37,7 @@ section {
 	padding: 30px;
 }
 h2	{
-	font-family: Montserrat cursive;
+	font-family: Montserrat ;
 	text-decoration: underline;
 	color: #D68910;
 	font-weight: bold;
@@ -46,13 +46,13 @@ h2	{
 }
 main 	{
 	padding: 0px 0px 60px 0px;
-	font-family: Montserrat cursive;
+	font-family: Montserrat;
 	color: #EDBB99;
 	width: 900px;
 	margin: auto;
 }
 footer a {
-	font-family: Shrikhand cursive;
+	font-family: Montserrat;
 	font-size: 25px;
 	color: #D68910;
 	padding-bottom: 40px;
