@@ -11,7 +11,7 @@ h1	{
 	font-size: 80px;
 	font-weight: 300;
 	color: #EDBB99;
-	padding: 50px 0px 70px 0px;
+	padding: 30px 0px 70px 0px;
 }
 li	{
 	display: inline-block;
@@ -25,12 +25,12 @@ nav a {
 	display: inline;
 }
 img	{
-	width: 75%;
+	width: 50%;
 	border-style: double;
 	border-width: 12px;
 	border-color: #EDBB99;
 	border-radius: 100px;
-	padding: 10px;
+	padding: 0px;
 	margin: auto 0;
 }
 section {
