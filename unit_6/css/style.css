@@ -32,9 +32,9 @@ ul {
 	list-style-type: none;
 }
 nav {
-	padding: 3em; 
+	/*padding: 3em;*/
 	display: block;
-	width: 12.5em;
+	/*width: 12.5em;*/
 }
 nav a {
 	font-size: 1.5em;
@@ -85,14 +85,26 @@ footer a {
 	padding-bottom: 2em;
 
 }
+#two_column{
+	background-color: #ffb7cf;
+	border: 1px black solid;
+	padding: 20px;
+}
 #left {
+	background-color: #e582a2;
+	border: 1px black solid;
+	padding: 30px;
+	margin: 20px;
 	float: left;
-	width: 10%;
+	width: 12%;
 }
 #right {
+	background-color: #e55b88;
+	border: 1px black solid;
+	padding: 20px;
 	float: right;
-	width: 80%; /*example of fluid layout*/
-	border-left: 1px black solid;
+	width: 75%; /*example of fluid layout*/
+	/*border-left: 1px black solid;*/
 }
 #wrapper {
 	width: 67.5em;
