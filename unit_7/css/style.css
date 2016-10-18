@@ -127,6 +127,9 @@ h2 {
 main {
 	font-size: 1.3em;
 }
+footer a{
+	font-size: 1.3em;
+}
 #left {
 	float: none;
 	width: 100%;
