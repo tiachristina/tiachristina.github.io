@@ -93,16 +93,16 @@ footer a {
 	border-left: 1px black solid;
 }
 #wrapper {
-	width: 67.5em;
+	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
 }
 #homeimage	{
 	background: url(http://i.imgur.com/UfhIgEr.jpg); 
 	background-color: #000;
-	background-size: 100%;
+	background-size: cover;
 	background-position: center;
-	height: 30em;
+	height: 40em;
 	border-radius: 6.25em;
 	margin: .5em 0 2em 0;
 }
