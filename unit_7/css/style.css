@@ -119,7 +119,13 @@ footer a {
 li {
 	font-size: 2em;
 	display: inline;
-	padding: 2em;
+	padding: 1.2em;
+}
+h2 {
+	font-size: 2em;
+}
+main {
+	font-size: 1.3em;
 }
 #left {
 	float: none;
@@ -132,6 +138,8 @@ li {
 	border-left: none;
 	margin: auto;
 }
+#wrapper:
+	width: 100%;
 }
 
 
