@@ -116,19 +116,24 @@ footer a {
 
 @media only screen and (max-width: 1130px) {
 
-li {
-	font-size: 2em;
-	display: inline;
-	padding: 1.2em;
+h1 {
+	font-size: 3em;
 }
 h2 {
 	font-size: 2em;
+	font-weight: normal;
+}
+li {
+	font-size: 2em;
+	font-weight: normal;
+	display: inline;
+	padding: 1.2em;
 }
 main {
 	font-size: 1.3em;
 }
 footer a{
-	font-size: 1.3em;
+	font-size: 2em;
 }
 #left {
 	float: none;
