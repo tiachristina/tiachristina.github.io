@@ -89,7 +89,7 @@ footer a {
 }
 #right {
 	float: right;
-	width: 75%; 
+	width: 75%; /*example of fluid layout*/
 	border-left: 1px black solid;
 }
 #wrapper {
@@ -100,7 +100,7 @@ footer a {
 #homeimage	{
 	background: url(http://i.imgur.com/UfhIgEr.jpg); 
 	background-color: #000;
-	background-size: 100%;
+	background-size: cover;
 	background-position: center;
 	height: 30em;
 	border-radius: 6.25em;
