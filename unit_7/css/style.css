@@ -82,7 +82,6 @@ footer a {
 
 }
 #left {
-	position: absolute;
 	float: left;
 	width: 18%;
 	padding: 1em;
@@ -114,3 +113,25 @@ footer a {
 	clear: both;
 	height: 0;
 }
+
+@media only screen and (max-width: 1130px) {
+
+li {
+	font-size: 2em;
+	display: inline;
+	padding: 2em;
+}
+#left {
+	float: none;
+	width: 100%;
+	margin: auto;
+}
+#right {
+	float: none;
+	width: 100%;
+	border-left: none;
+	margin: auto;
+}
+}
+
+
