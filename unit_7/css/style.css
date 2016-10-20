@@ -114,13 +114,24 @@ footer a {
 	height: 0;
 }
 
+@media only screen and (min-width: 400px) {
+
+	body {
+		width: 80%;
+	}
+	
+}
 @media only screen and (max-width: 1130px) {
 
 	body {
 		font-size: 18px;
+		width: 100%
 	}
 	h2 {
 		font-weight: normal;
+	}
+	nav {
+		display: inline;
 	}
 	nav a {
 		font-weight: normal;
@@ -131,7 +142,6 @@ footer a {
 	}
 	#left {
 		float: none;
-		width: 100%;
 		margin: auto;
 	}
 	#right {
