@@ -133,10 +133,14 @@ footer a {
 	}
 	nav a {
 		font-weight: normal;
+		padding: 1em;
 	}
 	li {
 		display: inline;
 		padding: 1.2em;
+	}
+	footer a{
+		font-size: 1.7em;
 	}
 	#left {
 		float: none;
