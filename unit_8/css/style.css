@@ -125,6 +125,9 @@ footer a {
 		font-size: 18px;
 		width: 100%;
 	}
+	h1 {
+		font-size: 3.5em;
+	}
 	h2 {
 		font-weight: normal;
 	}
@@ -132,6 +135,7 @@ footer a {
 		display: inline;
 	}
 	nav a {
+		font-size: 2em;
 		font-weight: normal;
 		padding: 1em;
 	}
