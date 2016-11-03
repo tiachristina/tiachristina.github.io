@@ -170,6 +170,10 @@ footer a {
 	footer a{
 		font-size: 1.7em;
 	}
+	#right {
+		padding-top: 1em;
+
+	}
 	#about {
 		padding-top: 6.7em;
 		margin-top: -10.5em;
