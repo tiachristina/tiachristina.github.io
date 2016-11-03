@@ -120,7 +120,7 @@ footer a {
 	width: 65%;
 	height: auto;
 	border-radius: 6.25em;
-	margin: .5em 4em 2em 4em;
+	margin: .5em 5em 2em 5em;
 }
 .clearfix:after {
 	visibility: hidden;
@@ -169,10 +169,6 @@ footer a {
 	}
 	footer a{
 		font-size: 1.7em;
-	}
-	#right {
-		margin-top: 1.5em;
-
 	}
 	#about {
 		padding-top: 6.7em;
