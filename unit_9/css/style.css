@@ -120,7 +120,7 @@ footer a {
 	width: 65%;
 	height: auto;
 	border-radius: 6.25em;
-	margin: .5em 6em 2em 6em;
+	margin: .5em 4em 2em 4em;
 }
 .clearfix:after {
 	visibility: hidden;
@@ -139,7 +139,7 @@ footer a {
 	}
 	
 }
-@media only screen and (max-width: 1130px) {
+@media only screen and (max-width: 900px) {
 
 	body {
 		font-size: 18px;
